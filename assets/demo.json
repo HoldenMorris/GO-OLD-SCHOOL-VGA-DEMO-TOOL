@@ -1,0 +1,12 @@
+{
+  "effects": ["plasma", "fire", "tunnel", "starfield", "sineScroller", "bigScroller"],
+  "cues": [
+    {"order": 0, "row": 0,  "effect": "plasma",     "transition": "cut"},
+    {"order": 1, "row": 0,  "effect": "starfield",  "transition": "cut"},
+    {"order": 2, "row": 0,  "effect": "tunnel",     "transition": "fade", "fade_dur": 1.5},
+    {"order": 3, "row": 0,  "effect": "sineScroller", "transition": "cut"},
+    {"order": 4, "row": 0,  "effect": "fire",       "transition": "cut"},
+    {"order": 5, "row": 0,  "effect": "bigScroller", "transition": "cut"},
+    {"order": 6, "row": 0,  "effect": "plasma",     "transition": "fade", "fade_dur": 2.0}
+  ]
+}
