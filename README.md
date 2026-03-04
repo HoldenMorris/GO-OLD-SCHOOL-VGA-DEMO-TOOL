@@ -2,6 +2,12 @@
 
 A demoscene demo engine in Go, inspired by classic DOS demos like Future Crew's Second Reality. Renders to a 320x200 256-color software framebuffer with MOD tracker music playback and beat-synced visual effects.
 
+## 3rd Party Links
+
+https://www.stanislavs.org/OldPages/mody_collection/#MOD
+https://modarchive.org/
+https://www.stef.be/bassoontracker/?file=demomods%2Fdemomusic.mod&index=2
+
 ## Build Dependencies
 
 ### Go
